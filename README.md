@@ -1,7 +1,8 @@
 ## Getting and Cleaning Data - Course Project ReadMe
 ### This file describes the basic process of running the run_analysis.r script 
  
- *Run_analysis.r is summarized below:	
+ * Run_analysis.r is summarized below:
+ 
 	1. X test and training data was extracted and binded together and stored in X_data
 	2. Y test and training data was extracted and binded together and stored in Y_data
 	3. Subject data was extracted and binded together and stored in Subject_data
